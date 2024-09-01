@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "title": "i7 8700k",
+        "price": 100,
+        "status": true,
+        "stock": 32,
+        "category": "procesador"
+    },
+    {
+        "id": 2,
+        "title": "rx 570",
+        "price": 24,
+        "status": true,
+        "stock": 15,
+        "category": "placa de video"
+    },
+    {
+        "id": 3,
+        "title": "kingston 32gb",
+        "description": "ram",
+        "code": "213231111",
+        "price": 123,
+        "status": true,
+        "stock": 12,
+        "category": "memoria ram"
+    }
+]
